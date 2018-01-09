@@ -148,6 +148,7 @@ AppPackages/
 
 # Others
 sql/
+sqlite*/
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
@@ -194,7 +195,8 @@ FakesAssemblies/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
